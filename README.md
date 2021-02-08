@@ -4,6 +4,6 @@
 
 The server for the security focused chat service Carrier, written in golang.
 
-Written by Preston Pan and Rainier Hasbrouck
-
-2020-2-08
+AUTHORS: Preston Pan, Rainier Hasbrouck \
+DATE: 2020-2-08 \
+PROGRESS: WIP 
